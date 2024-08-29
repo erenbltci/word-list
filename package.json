@@ -1,6 +1,6 @@
 {
-  "name": "@technoeren13/word-list",
-  "version": "0.0.1",
+  "name": "@technoeren/word-list",
+  "version": "0.0.2",
   "description": "Lists words in languages.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
