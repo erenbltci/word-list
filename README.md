@@ -6,10 +6,10 @@
 
 ```bash
 With npm
-npm i word-list
+npm i @technoeren13/word-list
 
 With yarn
-yarn add word-list
+yarn add @technoeren13/word-list
 ```
 
 ## Usage

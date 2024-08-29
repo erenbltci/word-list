@@ -1,10 +1,11 @@
 {
-  "name": "word-list",
+  "name": "@technoeren13/word-list",
   "version": "0.0.1",
   "description": "Lists words in languages.",
   "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "scripts": {
-    "test": "node ./dist/index.js",
     "build": "tsup"
   },
   "repository": {
@@ -19,7 +20,7 @@
     "is word exist",
     "discover word"
   ],
-  "author": "technoeren technoeren@outlook.com",
+  "author": "technoeren",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/technoeren13/word-list/issues"
@@ -28,5 +29,8 @@
   "devDependencies": {
     "tsup": "^8.2.4",
     "typescript": "^5.5.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
