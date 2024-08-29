@@ -1,6 +1,6 @@
 # word-list
 
--- Lists words in languages. Currently there is only Turkish and English.
+- Lists words in languages. Currently there is only Turkish and English.
 
 ## Installation
 
@@ -35,7 +35,7 @@ const result = searchWord.isWordExist("kebap", "tr" /* or en */);
 
 ## Information
 
-- Languages: Turkish, English
+# Languages: Turkish, English
 
--- English words are from [here](https://github.com/lorenbrichter/Words/blob/master/Words/en.txt) (274926 words/perhaps)
--- Turkish words are from [here](https://github.com/mertemin/turkish-word-list) (63840 words/perhaps)
+- English words are from [here](https://github.com/lorenbrichter/Words/blob/master/Words/en.txt) (274926 words/perhaps)
+- Turkish words are from [here](https://github.com/mertemin/turkish-word-list) (63840 words/perhaps)
