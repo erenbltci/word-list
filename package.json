@@ -1,0 +1,32 @@
+{
+  "name": "word-list",
+  "version": "0.0.1",
+  "description": "Lists words in languages.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "node ./dist/index.js",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/technoeren13/word-list.git"
+  },
+  "keywords": [
+    "turkish",
+    "english",
+    "word list",
+    "list",
+    "is word exist",
+    "discover word"
+  ],
+  "author": "technoeren technoeren@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technoeren13/word-list/issues"
+  },
+  "homepage": "https://github.com/technoeren13/word-list#readme",
+  "devDependencies": {
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}
